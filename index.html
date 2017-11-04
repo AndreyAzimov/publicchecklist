@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<!--
+
+	This is a template of a landing page where you can share your progress of Beta freeCodeCamp Course 
+
+	All data is taking from Google Spreedsheet (iFrame) and update it automaticaly every 5 mins
+
+	1. Make a copy of a spreadsheet: https://docs.google.com/spreadsheets/d/1fk4YFSs1f8YnTOpaRJa-2qePHE2J5MWxBzok-dYIVI4/edit?usp=sharing
+
+		File -> Make a copy
+
+	2. Get an iframe link of progress bar
+
+		File -> Publish to web -> Embeded -> progress-bar (Not Entire Doc)
+
+		Copy link
+
+			Copy only this: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQanprHEXQ66_r2rflfCrdKcfV6FMLzCoKWJ8gLaU0CJX48Ov7j8Cdow-pSyA6NKwepVJiz-xc7JHBk/pubhtml?gid=2110731770"
+
+				Between: "<iframe src"" AND "&amp"
+
+			Avoid copy hole iframe link
+
+
+		Paste this link to progress bar section below
+
+
+	3. Get an iframe link of of checklist (same as progress-bar)
+
+	4. Open this index.html and check if this works
+
+	5. Try to change progress in basic-html-and-html5 tab. Put "DONE" in any task
+
+		Checklist tab in spreedsheet should change
+
+		Progress tab in spreedsheet bar should change
+
+		Result should be changed in index.html
+
+	Troubleshooting:
+
+		If there is an error on iframe make sure you copy correct link
+
+		If there is a white boder of iFrame play with width and height below <iframe width=438 height=63 src="
+
+		Ask me: twitter.com/AndreyAzimov
+
+
+	Cheers,
+
+	Andrey
+	
+
+ -->
+
+
+	<meta charset='utf-8'>
+	<title>John Doe freeCodeCamp Progress</title>
+	<meta name="Description" content="beta.freecodecamp.org">
+	
+	<style type="text/css">
+		body{
+			background-color: black;
+			font-family: monospace;
+			color: #00ff01;
+		}
+
+		#header {
+			text-transform: uppercase;
+			text-align: center;
+			text-shadow: 1px 1px 5px black;
+
+		}
+
+		.link {
+			margin-bottom: 200px;
+			font-size: 30px;
+		}
+
+		h1{
+			font-size: 60px;
+		}
+
+		hr {
+			border-color: #00ff01;
+			margin-bottom: 40px;
+			margin-top: 80px;
+		}
+
+		a {
+			color: #9090ff;
+		}
+
+		p {
+			font-size: 20px;
+		}
+
+		#footer {
+			margin-top: 10px;
+			margin-bottom: 30px;
+			text-align: center;
+		}
+
+	</style>
+</head>
+	<body>
+		<div id="header">
+			<h1>John Doe</h1>
+			<h1>Beta freeCodeCamp Progress</h1>
+
+			<div align="center">
+
+				<!-- Progress bar -->
+
+				<iframe width=438 height=63 src="
+
+					https://docs.google.com/spreadsheets/d/e/2PACX-1vQanprHEXQ66_r2rflfCrdKcfV6FMLzCoKWJ8gLaU0CJX48Ov7j8Cdow-pSyA6NKwepVJiz-xc7JHBk/pubhtml?gid=1500447885
+
+				&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" frameBorder="0"></iframe>
+			</div>	
+
+			<a class="link" href="http://bit.ly/aazfreecodecamp">[source code]</a>
+		</div>
+
+		<hr>
+
+		<div align="center">
+
+			<!-- Checklist -->
+
+			<iframe width=735 height=1300 src="
+
+				https://docs.google.com/spreadsheets/d/e/2PACX-1vQanprHEXQ66_r2rflfCrdKcfV6FMLzCoKWJ8gLaU0CJX48Ov7j8Cdow-pSyA6NKwepVJiz-xc7JHBk/pubhtml?gid=2110731770
+
+			&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" frameBorder="0"></iframe>
+		</div>	
+
+		<hr>
+
+		<div id="footer">
+			<p>by <a href="https://twitter.com/AndreyAzimov">@AndreyAzimov</a></p>
+		</div>
+
+	</body>
+</html>
