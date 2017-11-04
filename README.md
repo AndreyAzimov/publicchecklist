@@ -26,7 +26,9 @@ DEMO 2 (100 Push-ups Challenge): http://andreyazimov.com/100pushups
 
 ## ⬇️ Instalation
 
-1. Make a copy of a spreadsheet: https://docs.google.com/spreadsheets/d/1fk4YFSs1f8YnTOpaRJa-2qePHE2J5MWxBzok-dYIVI4/edit?usp=sharing (File -> Make a copy).
+1. Make a copy of a spreadsheet (File -> Make a copy)
+- ![Free Code Camp Google Spreedsheet template](https://docs.google.com/spreadsheets/d/1fk4YFSs1f8YnTOpaRJa-2qePHE2J5MWxBzok-dYIVI4/edit?usp=sharing)
+- ![100 Push Upus Template](https://docs.google.com/spreadsheets/d/1fk4YFSs1f8YnTOpaRJa-2qePHE2J5MWxBzok-dYIVI4/edit?usp=sharing)
 
 2. Get an iframe link of progress bar (File -> Publish to web -> Embeded -> progress-bar (Not Entire Doc)).
 
