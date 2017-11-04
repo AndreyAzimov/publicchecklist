@@ -6,7 +6,7 @@ Procrastinating when try to complete some goal like:
 - Complete coding course
 - Go 30 days to gym
 - Learn Englsih
-- Loose weight
+- Lose weight
 
 ## 🛠 Solution
 
@@ -24,6 +24,8 @@ DEMO 2 (100 Push-ups Challenge): http://andreyazimov.com/100pushups
 
 ![Picture](https://raw.githubusercontent.com/AndreyAzimov/myprogress/master/pic.png)
 
+![Picture](https://raw.githubusercontent.com/AndreyAzimov/myprogress/master/chart.png)
+
 ## Instalation
 
 1. Make a copy of a spreadsheet: https://docs.google.com/spreadsheets/d/1fk4YFSs1f8YnTOpaRJa-2qePHE2J5MWxBzok-dYIVI4/edit?usp=sharing (File -> Make a copy)
@@ -34,7 +36,7 @@ DEMO 2 (100 Push-ups Challenge): http://andreyazimov.com/100pushups
 
 2.2.1 Between: "<iframe src"" AND "&amp". Avoid copy hole iframe link
 
-2.3 Paste this link to progress bar section below
+2.3 Paste this link to progress bar section in index.html
 
 
 3. Get an iframe link of of checklist (same as progress-bar)
