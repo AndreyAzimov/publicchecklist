@@ -1,11 +1,26 @@
 # My Progress
-Public checklist of your progress auto syncing with Google Sheet
+
+## 🤔 Problem
+
+Procrastinating when try to complete some goal like:
+- Complete coding course
+- Go 30 days to gym
+- Learn Englsih
+- Loose weight
+
+## 🛠 Solution
+
+Public checklist on your site where you exactly know what was done and how much left.
+
+It's auto sync with Google Sheet so don't need to HTML update it every  time
 
 This is a template of a landing page where you can share your progress of Beta freeCodeCamp Course 
 
 All data is taking from Google Spreedsheet (iFrame) and update it automaticaly every 5 mins
 
-DEMO: http://andreyazimov.com/freecodecamp
+DEMO 1 (Coding Course): http://andreyazimov.com/freecodecamp
+
+DEMO 2 (100 Push-ups Challenge): http://andreyazimov.com/100pushups
 
 ![Picture](https://raw.githubusercontent.com/AndreyAzimov/myprogress/master/pic.png)
 
