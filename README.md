@@ -27,12 +27,12 @@ DEMO 2 (100 Push-ups Challenge): http://andreyazimov.com/100pushups
 ## ⬇️ Instalation
 
 1. Make a copy of a spreadsheet (File -> Make a copy)
-- ![Free Code Camp Google Spreedsheet template](https://docs.google.com/spreadsheets/d/1fk4YFSs1f8YnTOpaRJa-2qePHE2J5MWxBzok-dYIVI4/edit?usp=sharing)
-- ![100 Push Upus Template](https://docs.google.com/spreadsheets/d/1fk4YFSs1f8YnTOpaRJa-2qePHE2J5MWxBzok-dYIVI4/edit?usp=sharing)
+- ![Beta Free Code Camp Checklist (Google Spreedsheet template)](https://docs.google.com/spreadsheets/d/1fk4YFSs1f8YnTOpaRJa-2qePHE2J5MWxBzok-dYIVI4/edit?usp=sharing)
+- ![100 Push-ups Google Checklist (Google Spreedsheet template)](https://docs.google.com/spreadsheets/d/1OPdKJrqP5Mqb2W-v6GuZIoaPwlOZ5u-j8mp_zBuW_Nw/edit#gid=0)
 
 2. Get an iframe link of progress bar (File -> Publish to web -> Embeded -> progress-bar (Not Entire Doc)).
 
-2.1 Copy link. Copy only this: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQanprHEXQ66_r2rflfCrdKcfV6FMLzCoKWJ8gLaU0CJX48Ov7j8Cdow-pSyA6NKwepVJiz-xc7JHBk/pubhtml?gid=2110731770"
+2.1 Copy link. Example: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQanprHEXQ66_r2rflfCrdKcfV6FMLzCoKWJ8gLaU0CJX48Ov7j8Cdow-pSyA6NKwepVJiz-xc7JHBk/pubhtml?gid=2110731770"
 
 2.2.1 Between: "<iframe src"" AND "&amp". Avoid copy hole iframe link.
 
