@@ -8,7 +8,7 @@ Procrastinating when try to complete some goal like:
 - Learn Englsih
 - Lose weight
 
-## 🛠 Solution
+## ✅ Solution
 
 Public checklist on your site where you exactly know what was done and how much left and share progress with your friends.
 
@@ -24,7 +24,7 @@ DEMO 2 (100 Push-ups Challenge): http://andreyazimov.com/100pushups
 
 ![Picture](https://raw.githubusercontent.com/AndreyAzimov/myprogress/master/chart.png)
 
-## Instalation
+## ⬇️ Instalation
 
 1. Make a copy of a spreadsheet: https://docs.google.com/spreadsheets/d/1fk4YFSs1f8YnTOpaRJa-2qePHE2J5MWxBzok-dYIVI4/edit?usp=sharing (File -> Make a copy).
 
@@ -43,7 +43,7 @@ DEMO 2 (100 Push-ups Challenge): http://andreyazimov.com/100pushups
 
 5. Try to change progress in basic-html-and-html5 tab. Put "DONE" in any task. Checklist tab in spreedsheet should change. Progress tab in spreedsheet bar should change. Result should be changed in index.html
 
-## Troubleshooting
+## 🛠 Troubleshooting
 
 - If there is an error on iframe make sure you copy correct link
 - If there is a white boder of iFrame play with width and height below <iframe width=438 height=63 src="
