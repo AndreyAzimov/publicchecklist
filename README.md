@@ -5,6 +5,10 @@ This is a template of a landing page where you can share your progress of Beta f
 
 All data is taking from Google Spreedsheet (iFrame) and update it automaticaly every 5 mins
 
+DEMO: http://andreyazimov.com/freecodecamp
+
+![Picture](https://raw.githubusercontent.com/AndreyAzimov/myprogress/master/pic.png)
+
 ## Instalation
 
 1. Make a copy of a spreadsheet: https://docs.google.com/spreadsheets/d/1fk4YFSs1f8YnTOpaRJa-2qePHE2J5MWxBzok-dYIVI4/edit?usp=sharing (File -> Make a copy)
