@@ -1,4 +1,4 @@
-# My Progress
+# ✅ Public Checklist
 
 ## 🤔 Problem
 
@@ -43,7 +43,7 @@ DEMO 2 (100 Push-ups Challenge): http://andreyazimov.com/100pushups
 
 5. Try to change progress in basic-html-and-html5 tab. Put "DONE" in any task. Checklist tab in spreedsheet should change. Progress tab in spreedsheet bar should change. Result should be changed in index.html
 
-## Troubleshooting:
+## Troubleshooting
 
 - If there is an error on iframe make sure you copy correct link
 - If there is a white boder of iFrame play with width and height below <iframe width=438 height=63 src="
