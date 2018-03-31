@@ -24,7 +24,7 @@ DEMO 2 (100 Push-ups Challenge): http://andreyazimov.com/100pushups
 
 ![Picture](https://raw.githubusercontent.com/AndreyAzimov/myprogress/master/chart.png)
 
-## ⬇️ Instalation
+## ⬇️ Installation
 
 1. Make a copy of a spreadsheet (File -> Make a copy). Here are some templates but you can make your own:
 - [100 Push-ups Google Checklist (Google Spreedsheet template)](https://docs.google.com/spreadsheets/d/1OPdKJrqP5Mqb2W-v6GuZIoaPwlOZ5u-j8mp_zBuW_Nw/edit#gid=0)
